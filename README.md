@@ -42,9 +42,9 @@ This is powered by HuggingFace’s [`pipeline`](https://huggingface.co/docs/tran
 ---
 
 ## Acknowledgments
--- HuggingFace  for the multilingual transformer model.
--- Streamlit Team for the wonderful framework.
--- Telugu community and contributors who help preserve this rich heritage.
+- HuggingFace  for the multilingual transformer model.
+- Streamlit Team for the wonderful framework.
+- Telugu community and contributors who help preserve this rich heritage.
 
  ## Contributing
 - We welcome contributions!
