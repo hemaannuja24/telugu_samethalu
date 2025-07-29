@@ -54,7 +54,7 @@ This is powered by HuggingFace’s [`pipeline`](https://huggingface.co/docs/tran
 - Improving the UI or layout.
 - Translating or localizing further.
 - Reporting bugs or proposing features.
-- Please open an issue or pull request in the GitHub repo.
+- Please open an issue or pull request in the [GitHub repo](https://github.com/hemaannuja24/telugu_samethalu).
 
 ##  Project Structure
 
