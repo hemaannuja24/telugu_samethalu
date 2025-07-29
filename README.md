@@ -1,6 +1,6 @@
  ## తెలుగు సామెతల ఖజానా (Telugu Proverbs Treasury)
 
-### A community-driven Streamlit web application to collect, preserve, and share timeless Telugu proverbs, along with their meanings and contextual usage.
+A community-driven Streamlit web application to collect, preserve, and share timeless Telugu proverbs, along with their meanings and contextual usage.
 
 ---
 
