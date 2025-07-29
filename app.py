@@ -73,8 +73,3 @@ with st.form("proverb_form"):
             st.rerun()
         else:
             st.error("దయచేసి సామెత మరియు భావం రెండూ నమోదు చేయండి.")
-
-
-# Footer
-st.markdown("---")
-st.markdown("<center><small>©తెలుగు సామెతల ఖజానా</small></center>", unsafe_allow_html=True)
