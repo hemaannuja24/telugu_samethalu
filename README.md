@@ -23,7 +23,7 @@ A community-driven Streamlit web application to collect, preserve, and share tim
 ##  Tech Stack
 
 - **Frontend & Logic**: [Streamlit](https://streamlit.io/)
-- **ML Model**: `MoritzLaurer/mDeBERTa-v3-base-mnli-xnli` via HuggingFace Transformers
+- **ML Model**: [`MoritzLaurer/mDeBERTa-v3-base-mnli-xnli`](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli) via HuggingFace Transformers
 - **Backend**: Google Sheets API (via `gspread` and `oauth2client`)
 - **Deployment**: Streamlit Cloud
 
@@ -40,6 +40,21 @@ Satire, Politics, Wealth, Time
 This is powered by HuggingFace’s [`pipeline`](https://huggingface.co/docs/transformers/main_classes/pipelines) abstraction.
 
 ---
+
+## Acknowledgments
+-- HuggingFace  for the multilingual transformer model.
+-- Streamlit Team for the wonderful framework.
+-- Telugu community and contributors who help preserve this rich heritage.
+
+ ## Contributing
+- We welcome contributions!
+  
+### You can help by:
+- Adding more labels/categories for classification.
+- Improving the UI or layout.
+- Translating or localizing further.
+- Reporting bugs or proposing features.
+- Please open an issue or pull request in the GitHub repo.
 
 ##  Project Structure
 
