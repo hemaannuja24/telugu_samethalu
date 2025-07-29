@@ -15,7 +15,7 @@ A community-driven Streamlit web application to collect, preserve, and share tim
 
 ## 🚀 Live Demo
 
-🔗 [Open the App on Streamlit Cloud]((https://telugusamethalu.streamlit.app/))  
+🔗 [Open the App on Streamlit Cloud](https://telugusamethalu.streamlit.app/)  
 🔗 [View Google Sheet of Proverbs](https://docs.google.com/spreadsheets/d/1J3j-IwOJr3iZlB9x_bc-7v3_L8QQE1_cZa45aA6V140/edit?gid=0#gid=0)
 
 ---
